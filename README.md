@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Victor and you know me now😜.
 
 <!--
 **VictorChukwudi/VictorChukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
