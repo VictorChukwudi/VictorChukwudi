@@ -3,7 +3,8 @@ I am a graduate of Electrical/Electronic Engineering (Electronics & Computer Eng
 - 🌱 I’m currently learning information security techniques and provision of IT support.
 - 🔭 I’m currently looking for internship and job opportunities.
 - 👯 I’m looking to collaborate on projects to sharpen my skills.
-- 📫 How to reach me:[LinkedIn]()
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-ukoha-b56224222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app), [email](victorukay@gmail.com)
+- 😄 Pronouns: He/Him
 <!--
 **VictorChukwudi/VictorChukwudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
